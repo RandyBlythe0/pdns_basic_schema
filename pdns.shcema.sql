@@ -1,4 +1,4 @@
- GRANT ALL ON powerdns.* TO 'powerdns'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL ON powerdns.* TO 'powerdns'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL ON powerdns.* TO 'powerdns'@'your-domain' IDENTIFIED BY 'password';
 FLUSH PRIVILEGES;
 
